@@ -6,16 +6,10 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publications/  
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Research News"
+    url: /posts/    
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
