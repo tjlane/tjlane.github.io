@@ -6,7 +6,6 @@ Forked from academic pages -- thanks!
 
 ## Running Locally
 
-    On MacOS the commands are:
     ```bash
     brew install ruby
     brew install node
