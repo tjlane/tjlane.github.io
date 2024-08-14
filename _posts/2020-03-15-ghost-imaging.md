@@ -11,7 +11,7 @@ The back-story and namesake of the technique start with a certain class of exper
 
 The Ghost Imaging experiment looked something like this:
 
-![photo: courtesy of Physics Today](https://tjlane.github.io/files/ghost_imaging.png)
+![photo: courtesy of Physics Today](https://tjlane.github.io/files/ghost-imaging.png)
 
 Pairs of entangled photons are generated, typically by a process known as “parametric downconversion”. One photon from each pair is sent into an object, and a “bucket” detector records if it makes it through or is absorbed. The other photon is sent straight to a 2D imaging detector, where it’s spatial position is recorded. Surprisingly, if we correlate the bucket at 2D signals, the resulting correlation is an image of the object – even though we never resolved any spatial information from the photons that interacted with the object! The photons must be sharing information!
 
