@@ -1,9 +1,9 @@
 ---
 title: 'Ghost Imaging'
-date: 2020-01-01
-permalink: /posts/2020/01/ghost-imaging/
+date: 2020-03-15
+permalink: /posts/2020/ghost-imaging/
 tags:
-  - ghost-imaging
+  - physics
 ---
 
 What the heck is ghost imaging? No, we’re not actually talking about taking pictures of ghosts (which was quite popular back in the day), but about a certain philosophy of measurement.
