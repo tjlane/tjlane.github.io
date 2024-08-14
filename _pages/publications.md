@@ -1,3 +1,14 @@
+---
+permalink: /publications/
+title: "Publications"
+author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
+---
+
+
+
 2023
 
 *   Amann-Winkel, K. et al. (2023) [Liquid-liquid phase separation in supercooled water from ultrafast heating of low-density amorphous ice](https://www.nature.com/articles/s41467-023-36091-1). _Nat Commun_, 14, 442.
