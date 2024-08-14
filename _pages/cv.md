@@ -38,14 +38,14 @@ Industry Experience
 
 Scholarship
 ======
-Journal Publications: 70
-Book Chapters: 1
-Total Citations: 7700+
-H-index: 35
-PI role in project: 10
-High Impact (Science or Nature): 6
-Scholarly Grants & Awards: 11
 _Updated: 1 August 2024_
+- Journal Publications: 70
+- Book Chapters: 1
+- Total Citations: 7700+
+- H-index: 35
+- PI role in project: 10
+- High Impact (Science or Nature): 6
+- Scholarly Grants & Awards: 11
   
 Grants, Awards, Honors
 ======
