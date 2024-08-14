@@ -17,16 +17,16 @@ Education
 
 Academic Positions
 ======
-* Group Leader, Deutsches Elektronen-Synchrotron "DESY" 
+* **Group Leader**, Deutsches Elektronen-Synchrotron "DESY" 
   * Hamburg, DE. Aug/2020-present
   * Leader: Photobiology Group. Center for FEL Science (CFEL).
-* Staff Scientist, SLAC Nat’l Accelerator Lab 
+* **Staff Scientist**, SLAC Nat’l Accelerator Lab 
   * Menlo Park, CA. Jan/2020-July/2020
   * Machine learning group. Permanent academic position.
-* Associate Staff Scientist, SLAC Nat’l Accelerator Lab 
+* **Associate Staff Scientist**, SLAC Nat’l Accelerator Lab 
   * Menlo Park, CA. June/2015-Jan/2020
   * Linac coherent light source (LCLS). Tenure-track.
-* PhD Student, Stanford University 
+* **PhD Student**, Stanford University 
   * Stanford, CA. Sept/2010-Apr/2015
   * Research group of Vijay Pande. Teaching & research.
 
