@@ -7,6 +7,8 @@ tags:
   - biology
 ---
 
+![Alvra Beamline](./files/alvra1.jpg)
+
 Anyone who’s suffered a sunburn knows first-hand that the sun can be harmful. Discomfort isn’t the only reason to take shelter in the summer, though. Direct sunlight can wreak havoc on cells’ DNA, causing up to 100 DNA damage events per exposed cell each second! In the worst case, this damage leads to dangerous cancers. To cope, humans and all other species employ DNA repair enzymes that are constantly working to keep our genomes healthy.
 
 One especially powerful DNA repair enzyme is photolyase. Photolyase is special because it uses the energy of sunlight to repair DNA damage caused by the sun. Photolyase repairs the most common forms of sunlight-induced damage, where two pieces of DNA become incorrectly chemically bonded to one another after absorbing UV radiation.
