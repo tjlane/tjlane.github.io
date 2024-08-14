@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently leading the photobiology (PBIO) group at the Deutsches Elektronen Synchrotron, more commonly known as "DESY".Previously, I was a principal scientist at CHARM Therapeutics and a staff scientist at the the world's first hard X-ray free electron laser (Linac Coherent Light Source/LCLS). During my PhD, I studied at Stanford under Vijay Pande.
+I am currently leading the photobiology (PBIO) group at the Deutsches Elektronen Synchrotron (DESY). Previously, I was a principal scientist at CHARM Therapeutics and a staff scientist at the the world's first hard X-ray free electron laser (Linac Coherent Light Source/LCLS). During my PhD, I studied at Stanford under Vijay Pande.
 
 
 Research
