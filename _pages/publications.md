@@ -7,8 +7,7 @@ redirect_from:
   - /publications.html
 ---
 
-_Updated: 1 August 2024_
-
+_Updated: 1 August 2024_ \
 \* Asterisk indicates corresponding authorship.
 
 
@@ -195,5 +194,4 @@ _Updated: 1 August 2024_
     
 *   **Lane, T. J.** et al. (2008) [Dual-Beam Polarization Interferometry Resolves Mechanistic Aspects of Polyelectrolyte Adsorption](https://pubs.acs.org/doi/10.1021/la802496h). _Langmuir_, 24(19) 10633-10636.
     
-
-**Lane, T. J.** et al. (2008) [Ultrasonic Rheology of the Aqueous Phase of SDS Micellar Systems](https://pubs.acs.org/doi/10.1021/ac800861s). _Anal Chemistry_, 80(20), 7840-7845.
+*   **Lane, T. J.** et al. (2008) [Ultrasonic Rheology of the Aqueous Phase of SDS Micellar Systems](https://pubs.acs.org/doi/10.1021/ac800861s). _Anal Chemistry_, 80(20), 7840-7845.
