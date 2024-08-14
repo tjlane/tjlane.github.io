@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Stanford University**, Stanford CA. PhD Chemistry, April 2015.
+* **Stanford University**, Stanford CA. PhD Chemistry, April 2015. \
   Thesis: "Modern theory of protein folding."
 * **Pomona College**, Claremont CA. BA Chemistry, May 2010
 
