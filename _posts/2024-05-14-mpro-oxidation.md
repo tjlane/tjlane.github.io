@@ -1,6 +1,6 @@
 ---
 title: 'Mpro responds to oxidation'
-date: 2020-05-14
+date: 2024-05-14
 permalink: /posts/2024/mpro-oxidation/
 tags:
   - biology

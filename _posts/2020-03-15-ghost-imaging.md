@@ -11,7 +11,7 @@ The back-story and namesake of the technique start with a certain class of exper
 
 The Ghost Imaging experiment looked something like this:
 
-[ INSERT PHOTO ]
+![photo: courtesy of Physics Today](https://tjlane.github.io/files/ghost_imaging.png)
 
 Pairs of entangled photons are generated, typically by a process known as “parametric downconversion”. One photon from each pair is sent into an object, and a “bucket” detector records if it makes it through or is absorbed. The other photon is sent straight to a 2D imaging detector, where it’s spatial position is recorded. Surprisingly, if we correlate the bucket at 2D signals, the resulting correlation is an image of the object – even though we never resolved any spatial information from the photons that interacted with the object! The photons must be sharing information!
 
@@ -23,6 +23,6 @@ When I personally realized this, I was working at the LCLS free electron laser (
 
 So, should you try ghost imaging? [We wrote a paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-5-5898&id=427611) that simply used classic results in linear regression to answer this question in a general case, and weigh the merits of raster scanning, multiplexing, and ghost imaging – illustrated below – for your application.
 
-[ INSERT PHOTO ]
+![ghost imaging sampling schemes](https://tjlane.github.io/files/ghost_imaging_sampling.jpg)
 
 If you’re curious to read more, and have an interest in x-rays in particular, I recommend you check out the work of David Paganin and his colleagues. There are many bright people working in the field, too many to list here, so I’ll apologize to my colleagues for the short list of shout-outs and ask folks to refer to papers on the subject for a more in-depth literature list.
