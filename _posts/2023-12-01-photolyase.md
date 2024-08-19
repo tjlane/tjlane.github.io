@@ -1,5 +1,5 @@
 ---
-title: 'How does photolyase repair DNA?'
+title: '🧬 How does photolyase repair DNA?'
 date: 2023-12-01
 permalink: /posts/2023/photolyase/
 tags:

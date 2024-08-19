@@ -1,5 +1,5 @@
 ---
-title: 'Protein structure prediction is at the single-structure frontier'
+title: '🗻 Protein structure prediction is at the single-structure frontier'
 date: 2023-01-13
 permalink: /posts/2023/single-structure-frontier/
 tags:

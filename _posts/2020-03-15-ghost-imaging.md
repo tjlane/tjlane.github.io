@@ -1,5 +1,5 @@
 ---
-title: 'Ghost Imaging'
+title: '👻 Ghost Imaging'
 date: 2020-03-15
 permalink: /posts/2020/ghost-imaging/
 tags:
