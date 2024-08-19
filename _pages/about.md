@@ -7,18 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am currently leading the photobiology (PBIO) group at the Deutsches Elektronen Synchrotron (DESY). Previously, I was a principal scientist at CHARM Therapeutics and a staff scientist at the the world's first hard X-ray free electron laser (Linac Coherent Light Source/LCLS). During my PhD, I studied at Stanford under Vijay Pande.
+I am a scientist interesting in building new technology to reveal the structure, dynamics, and function of life at the molecular scale.
+
+I am currently leading the photobiology (PBIO) group at the Deutsches Elektronen Synchrotron, DESY. Previously, I was a principal scientist at CHARM Therapeutics and a staff scientist at the the world's first hard X-ray free electron laser, the LCLS. During my PhD, I studied at Stanford under Vijay Pande and worked as part of the Folding@home team.
 
 
 Research
 ======
-My team is focused on discovering new biology using frontier methods in crystallography, specifically:
+My focus is on developing new technology to image life at the molecular scale, pushing the limits of we can do in space & time. 
+
+At present, my team is focused on discovering new biology using frontier methods in crystallography, specifically:
 1. time-resolved serial femtosecond crystallography (SFX) of photoactive proteins
 2. extracting allosteric and dynamical information from large numbers of crystals subjected to perturbation, a field we coined "statistical crystallography"
 
-The group has a strong methods development culture. If you are interested learning more about our group, including open positions, please visit the [official DESY-PBIO website](http://pbio.cfel.de).
+If you are interested learning more about our group, including open positions, please visit the [the group site](http://pbio.cfel.de).
 
 
 Consulting
 ======
-In addition to deep expertise in cutting-edge structural biology relevant for drug discovery and biotech, I have industry experience developing technical strategy. My focus uniting people with computational and biological backgrounds so that they can multiply one another, rather than working at crossroads. Reach out if you are interested in consulting on technical strategy in the startup environment, XFEL-based structural biology, or high-throughput crystallography including ligand/fragment screens.
+In addition to expertise in frontier structural biology, I have industry experience developing corporate technical strategy, with a focus on the challenging but exciting intersection of machine learning and biology. [Reach out by email](mailto:photobio.consulting@gmail.com) to inquire.

@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "bio-photo.jpg"
   name             : "TJ Lane"
-  bio              : "Dynamic Structural Biology"
-  location         : "Cambridge, UK"
+  bio              : "Frontier Structural Biology"
+  # location         : "Cambridge, UK"
   employer         : "DESY"
   uri              : "https://pbio.cfel.de"
   email            : "thomas.lane@desy.de" 
