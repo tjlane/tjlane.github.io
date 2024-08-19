@@ -1,5 +1,5 @@
 ---
-title: ':sweat_drops: Could there be two types of liquid water?'
+title: '💦 Could there be two types of liquid water?'
 date: 2020-03-15
 permalink: /posts/2020/water/
 tags:
