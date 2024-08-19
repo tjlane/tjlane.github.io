@@ -1,7 +1,7 @@
 ---
 title: 'How do proteins fold?'
-date: 2019-02-01
-permalink: /posts/2019/protein-folding/
+date: 2020-02-01
+permalink: /posts/2010/protein-folding/
 tags:
   - physics
 ---
