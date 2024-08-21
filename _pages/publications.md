@@ -7,13 +7,13 @@ redirect_from:
   - /publications.html
 ---
 
-_Updated: 1 August 2024_ \
+_Updated: 21 August 2024_ \
 \* Asterisk indicates corresponding authorship.
 
 
 2024
 
-* Stransky, M; **Lane, T. J.**\*; Gorel, A.; Boutet, S.; Schlichting, I. \*; Mancuso, A. P.; Jurek, Z.; Ziaja B. \* (2024). [Ionization by XFEL radiation produces distinct structure in liquid water.](https://doi.org/10.1038/s42005-024-01768-6) _Commnu Phys_ 7 (281), 1-9.
+* Stransky, M; **Lane, T. J.**\*; Gorel, A.; Boutet, S.; Schlichting, I. \*; Mancuso, A. P.; Jurek, Z.; Ziaja B. \* (2024). [Ionization by XFEL radiation produces distinct structure in liquid water.](https://doi.org/10.1038/s42005-024-01768-6) _Commun Phys_ 7 (281), 1-9.
 
 * Reinke, P. Y. A.; Schubert, R.; et. al.; **Lane, T. J.**\* (2024). [SARS-CoV-2 Mpro responds to oxidation by forming disulfide and NOS/SONOS bonds.](https://www.nature.com/articles/s41467-024-48109-3) _Nat Commun_ 15, 3827.
 
