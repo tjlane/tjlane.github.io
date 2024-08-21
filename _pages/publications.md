@@ -13,14 +13,14 @@ _Updated: 1 August 2024_ \
 
 2024
 
-* Stransky, M; **Lane, T. J.**\*; Gorel, A.; Boutet, S.; Schlichting, I.; Mancuso, A. P.; Jurek, Z.; Ziaja B. (2024). [Ionization by XFEL radiation produces distinct structure in liquid water.](https://arxiv.org/pdf/2402.10840) _Comms Phys, in press._
+* Stransky, M; **Lane, T. J.**\*; Gorel, A.; Boutet, S.; Schlichting, I. \*; Mancuso, A. P.; Jurek, Z.; Ziaja B. \* (2024). [Ionization by XFEL radiation produces distinct structure in liquid water.](https://doi.org/10.1038/s42005-024-01768-6) _Commnu Phys_ 7 (281), 1-9.
 
-* Reinke, P. Y. A.; Schubert, R.; et. al.; **Lane, T. J.**\* (2024). [SARS-CoV-2 Mpro responds to oxidation by forming disulfide and NOS/SONOS bonds.](https://www.nature.com/articles/s41467-024-48109-3) _Nat Commun_ 15, 3827
+* Reinke, P. Y. A.; Schubert, R.; et. al.; **Lane, T. J.**\* (2024). [SARS-CoV-2 Mpro responds to oxidation by forming disulfide and NOS/SONOS bonds.](https://www.nature.com/articles/s41467-024-48109-3) _Nat Commun_ 15, 3827.
 
 
 2023
 
-* Christou, N-E; Apostolopoulou, V; Melo, D. V. M.; et al.; **Lane, T. J.**\* (2023). [Time-resolved crystallography captures light-driven DNA repair.](https://www.science.org/doi/10.1126/science.adj4270) _Science_, 382 (6674), 1015-1020
+* Christou, N-E; Apostolopoulou, V; Melo, D. V. M.; et al.; **Lane, T. J.**\* (2023). [Time-resolved crystallography captures light-driven DNA repair.](https://www.science.org/doi/10.1126/science.adj4270) _Science_, 382 (6674), 1015-1020.
 
 *   Amann-Winkel, K. et al. (2023) [Liquid-liquid phase separation in supercooled water from ultrafast heating of low-density amorphous ice](https://www.nature.com/articles/s41467-023-36091-1). _Nat Commun_, 14, 442.
     
