@@ -1,9 +1,9 @@
 ---
-title: '🦠 Mpro responds to oxidation'
-date: 2024-05-14
-permalink: /posts/2024/mpro-oxidation/
+title: '💥 X-ray damage creates new structure in water?'
+date: 2024-09-08
+permalink: /posts/2024/water-damage/
 tags:
-  - biology
+  - physics
 ---
 
 What happens when you blast water with a femtosecond burst of intense X-rays from a FEL?
