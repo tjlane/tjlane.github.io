@@ -25,10 +25,13 @@ _Updated: 21 August 2024_ \
 
 * Christou, N-E; Apostolopoulou, V; Melo, D. V. M.; et al.; **Lane, T. J.**\* (2023). [Time-resolved crystallography captures light-driven DNA repair.](https://www.science.org/doi/10.1126/science.adj4270) _Science_, 382 (6674), 1015-1020.
 
-*   Amann-Winkel, K. et al. (2023) [Liquid-liquid phase separation in supercooled water from ultrafast heating of low-density amorphous ice](https://www.nature.com/articles/s41467-023-36091-1). _Nat Commun_, 14, 442.
+* Amann-Winkel, K. et al. (2023) [Liquid-liquid phase separation in supercooled water from ultrafast heating of low-density amorphous ice](https://www.nature.com/articles/s41467-023-36091-1). _Nat Commun_, 14, 442.
     
 *   **Lane, T.J.**\* (2023) [Protein structure prediction has reached the single-structure frontier.](https://rdcu.be/c3nLy) _Nat Methods_ DOI: 10.1038/s41592-022-01760-4.
-    
+
+* Aithani, L. et al. (2023) [Advancing structural biology through breakthroughs in AI](https://doi.org/10.1016/j.sbi.2023.102601), _Curr Op Struct Biol_ 80, 102601.
+
+* Yang, C. et al. (2023). [Melting domain size and recrystallization dynamics of ice revealed by time-resolved x-ray scattering.](https://doi.org/10.1038/s41467-023-38551-0) _Nat Commun_ 14, 3313. 
 
 2022
 
