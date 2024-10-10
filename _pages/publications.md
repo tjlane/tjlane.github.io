@@ -15,6 +15,10 @@ _Updated: 21 August 2024_ \
 
 * Stransky, M; **Lane, T. J.**\*; Gorel, A.; Boutet, S.; Schlichting, I. \*; Mancuso, A. P.; Jurek, Z.; Ziaja B. \* (2024). [Ionization by XFEL radiation produces distinct structure in liquid water.](https://doi.org/10.1038/s42005-024-01768-6) _Commun Phys_ 7 (281), 1-9.
 
+
+Fletcher, L. et al. (2024). [X-ray diffraction of metastable structures from supercooled liquid hydrogen](https://doi.org/10.1038/s41598-024-67942-6)
+_Sci Rep_ 14, 17283.
+
 * Reinke, P. Y. A.; Schubert, R.; et. al.; **Lane, T. J.**\* (2024). [SARS-CoV-2 Mpro responds to oxidation by forming disulfide and NOS/SONOS bonds.](https://www.nature.com/articles/s41467-024-48109-3) _Nat Commun_ 15, 3827.
 
 
