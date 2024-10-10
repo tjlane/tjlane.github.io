@@ -27,7 +27,7 @@ _Updated: 21 August 2024_ \
 
 * Amann-Winkel, K. et al. (2023) [Liquid-liquid phase separation in supercooled water from ultrafast heating of low-density amorphous ice](https://www.nature.com/articles/s41467-023-36091-1). _Nat Commun_, 14, 442.
     
-*   **Lane, T.J.**\* (2023) [Protein structure prediction has reached the single-structure frontier.](https://rdcu.be/c3nLy) _Nat Methods_ DOI: 10.1038/s41592-022-01760-4.
+*   **Lane, T.J.**\* (2023) [Protein structure prediction has reached the single-structure frontier.](https://rdcu.be/c3nLy) _Nat Methods_ 20, 170–173.
 
 * Aithani, L. et al. (2023) [Advancing structural biology through breakthroughs in AI](https://doi.org/10.1016/j.sbi.2023.102601), _Curr Op Struct Biol_ 80, 102601.
 
