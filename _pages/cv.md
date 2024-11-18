@@ -39,13 +39,17 @@ Industry Experience
 Scholarship
 ======
 _Updated: 1 August 2024_
-- Journal Publications: 70
+- Journal Publications: 74
 - Book Chapters: 1
-- Total Citations: 7700+
-- H-index: 35
-- PI role in project: 10
+- Total Citations: 8100+
+- H-index: 36
+- PI role in project: 12
 - High Impact (Science or Nature): 6
 - Scholarly Grants & Awards: 11
+
+Service
+======
+* Co-editor, Journal of Applied Crystallography (IUCr).
   
 Grants, Awards, Honors
 ======
@@ -63,6 +67,7 @@ Grants, Awards, Honors
 
 Invited Talks
 ======
+* Time-resolved crystallography captures light-driven DNA repair. Ultrafast Dynamic Imaging of Matter Conference. Hamburg (2024).
 * Time-resolved crystallography captures light-driven DNA repair. UK XFEL Meeting. Royal Society,
 London (2024).
 * Time-resolved crystallography captures light-driven DNA repair. 7th Ringberg Workshop on Structural

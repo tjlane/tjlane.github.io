@@ -13,8 +13,11 @@ _Updated: 21 August 2024_ \
 
 2024
 
-* Stransky, M; **Lane, T. J.**\*; Gorel, A.; Boutet, S.; Schlichting, I. \*; Mancuso, A. P.; Jurek, Z.; Ziaja B. \* (2024). [Ionization by XFEL radiation produces distinct structure in liquid water.](https://doi.org/10.1038/s42005-024-01768-6) _Commun Phys_ 7 (281), 1-9.
+* Creon, A; Scheer T. E. S; Reinke P.; Rahmani A.; Günther S.; Sprenger J.; Niebling, S.; Meents A.; Chapman H. N.; **Lane T. J.** (2024) Statistical crystallography reveals an allosteric network in SARS-CoV-2 Mpro. _submitted_.
 
+* Fadini, A.; Apostolopoulou, V.; **Lane, T. J.**; van Thor, J. J. (2024) [Denoising Reveals Low-Occupancy Populations in Protein Crystals](https://www.biorxiv.org/content/10.1101/2024.11.06.622276v1.full) _bioRxiv_. 10.1101/2024.11.06.622276.
+
+* Stransky, M; **Lane, T. J.**\*; Gorel, A.; Boutet, S.; Schlichting, I. \*; Mancuso, A. P.; Jurek, Z.; Ziaja B. \* (2024). [Ionization by XFEL radiation produces distinct structure in liquid water.](https://doi.org/10.1038/s42005-024-01768-6) _Commun Phys_ 7 (281), 1-9.
 
 * Fletcher, L. et al. (2024). [X-ray diffraction of metastable structures from supercooled liquid hydrogen](https://doi.org/10.1038/s41598-024-67942-6) _Sci Rep_ 14, 17283.
 
