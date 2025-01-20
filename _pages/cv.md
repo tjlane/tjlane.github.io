@@ -38,12 +38,12 @@ Industry Experience
 
 Scholarship
 ======
-_Updated: 1 August 2024_
-- Journal Publications: 74
+_Updated: 20 January 2025_
+- Journal Publications: 73
 - Book Chapters: 1
-- Total Citations: 8100+
-- H-index: 36
-- PI role in project: 12
+- Total Citations: 8200+
+- H-index: 37
+- PI role in project: 11
 - High Impact (Science or Nature): 6
 - Scholarly Grants & Awards: 11
 
@@ -67,6 +67,9 @@ Grants, Awards, Honors
 
 Invited Talks
 ======
+* Time-resolved crystallography captures light-driven DNA repair. EBSA, Rome (scheduled for July 2025).
+* Time-resolved crystallography captures light-driven DNA repair. EMBO Workshop: Time-resolved spectroscopy meets time-resolved crystallography, Pécs. (scheduled for May 2025).
+* Time-resolved crystallography captures light-driven DNA repair. U. Düsseldorf Chemistry Colloquium, Düsseldorf (2025).
 * Time-resolved crystallography captures light-driven DNA repair. Ultrafast Dynamic Imaging of Matter Conference. Hamburg (2024).
 * Time-resolved crystallography captures light-driven DNA repair. UK XFEL Meeting. Royal Society,
 London (2024).

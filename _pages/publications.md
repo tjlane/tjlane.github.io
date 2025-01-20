@@ -7,13 +7,15 @@ redirect_from:
   - /publications.html
 ---
 
-_Updated: 21 August 2024_ \
+_Updated: 20 January 2025_ \
 \* Asterisk indicates corresponding authorship.
+
+2025
+
+* Creon, A; Scheer T. E. S; Reinke P.; Rahmani A.; Günther S.; Niebling, S.; Schamoni-Kast, K.; Uetrecht, C.; Meents A.; Chapman H. N.; Sprenger J.; **Lane T. J.** (2025) Statistical crystallography reveals an allosteric network in SARS-CoV-2 Mpro. _submitted_.
 
 
 2024
-
-* Creon, A; Scheer T. E. S; Reinke P.; Rahmani A.; Günther S.; Sprenger J.; Niebling, S.; Meents A.; Chapman H. N.; **Lane T. J.** (2024) Statistical crystallography reveals an allosteric network in SARS-CoV-2 Mpro. _submitted_.
 
 * Fadini, A.; Apostolopoulou, V.; **Lane, T. J.**; van Thor, J. J. (2024) [Denoising Reveals Low-Occupancy Populations in Protein Crystals](https://www.biorxiv.org/content/10.1101/2024.11.06.622276v1.full) _bioRxiv_. 10.1101/2024.11.06.622276.
 
