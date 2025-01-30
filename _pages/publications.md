@@ -7,12 +7,12 @@ redirect_from:
   - /publications.html
 ---
 
-_Updated: 20 January 2025_ \
+_Updated: 30 January 2025_ \
 \* Asterisk indicates corresponding authorship.
 
 2025
 
-* Creon, A; Scheer T. E. S; Reinke P.; Rahmani A.; Günther S.; Niebling, S.; Schamoni-Kast, K.; Uetrecht, C.; Meents A.; Chapman H. N.; Sprenger J.; **Lane T. J.** (2025) Statistical crystallography reveals an allosteric network in SARS-CoV-2 Mpro. _submitted_.
+* Creon, A; Scheer T. E. S; Reinke P.; Rahmani A.; Günther S.; Niebling, S.; Schamoni-Kast, K.; Uetrecht, C.; Meents A.; Chapman H. N.; Sprenger J.; **Lane T. J.**\* (2025) [Statistical crystallography reveals an allosteric network in SARS-CoV-2 Mpro.](https://www.biorxiv.org/content/10.1101/2025.01.28.635305v1) _bioRxiv_ 10.1101/2025.01.28.635305
 
 
 2024
