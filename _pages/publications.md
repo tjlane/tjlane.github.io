@@ -17,7 +17,7 @@ _Updated: 30 January 2025_ \
 
 2024
 
-* Fadini, A.; Apostolopoulou, V.; **Lane, T. J.**; van Thor, J. J. (2024) [Denoising Reveals Low-Occupancy Populations in Protein Crystals](https://www.biorxiv.org/content/10.1101/2024.11.06.622276v1.full) _bioRxiv_. 10.1101/2024.11.06.622276.
+* Fadini, A.\*; Apostolopoulou, V.; **Lane, T. J.**\*; van Thor, J. J.\* (2024) [Denoising Reveals Low-Occupancy Populations in Protein Crystals](https://www.biorxiv.org/content/10.1101/2024.11.06.622276v1.full) _bioRxiv_. 10.1101/2024.11.06.622276.
 
 * Stransky, M; **Lane, T. J.**\*; Gorel, A.; Boutet, S.; Schlichting, I. \*; Mancuso, A. P.; Jurek, Z.; Ziaja B. \* (2024). [Ionization by XFEL radiation produces distinct structure in liquid water.](https://doi.org/10.1038/s42005-024-01768-6) _Commun Phys_ 7 (281), 1-9.
 
