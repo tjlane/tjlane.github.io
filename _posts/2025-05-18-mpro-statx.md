@@ -14,6 +14,8 @@ We’ve been studying the main protease (M<sup>pro</sup>) from SARS-CoV-2, an en
 
 Our study is based on a trove of thousands of crystal structures of M<sup>pro</sup>, a dataset 100x larger than is typical, that we produced during a [COVID ligand screening campaign](https://www.science.org/doi/10.1126/science.abf7945). Even though all samples were nominally prepared in the same way there is structural variability in the dataset. We hypothesized that this distribution of structures might reflect the native dynamics of the protein in solution – indeed, it qualitatively matches MD simulations.
 
+![mpro-statx-summary](https://tjlane.github.io/files/mpro-statx-one-slide.jpg)
+
 By computing residue-level covariance across this ensemble, we were able to identify residues whose motions are statistically coupled to the active site, including some in the distant dimerization domain. As Mpro’s activity is regulated by dimerization, we used our ensemble to predict how structural correlations between the enzyme’s active site and dimer interface modulate function.
 
 We then mutated three of these residues and found striking effects:
