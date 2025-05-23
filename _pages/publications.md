@@ -12,6 +12,9 @@ _Updated: 30 January 2025_ \
 
 2025
 
+* Nadan, A. et al. (2025). [Real-space observation of the dissociation of a transition metal complex and
+its concurrent energy redistribution.](https://www.nature.com/articles/s41467-025-60009-8) _Nat Commun_ 16, 4767.
+
 * Creon, A; Scheer T. E. S; Reinke P.; Rahmani A.; Günther S.; Niebling, S.; Schamoni-Kast, K.; Uetrecht, C.; Meents A.; Chapman H. N.; Sprenger J.; **Lane T. J.**\* (2025) [Statistical crystallography reveals an allosteric network in SARS-CoV-2 Mpro.](https://www.biorxiv.org/content/10.1101/2025.01.28.635305v1) _bioRxiv_ 10.1101/2025.01.28.635305
 
 
@@ -44,7 +47,7 @@ _Updated: 30 January 2025_ \
     
 *   Chitturi, S. R. et al (2022) [A machine learning photon detection algorithm for coherent x-ray ultrafast fluctuation analysis](https://aca.scitation.org/doi/10.1063/4.0000161). _Structural Dynamics_,  9, 054302.
     
-*   Hammarström, B; **Lane, T. J.**; Batili, H.; Sierra, R.; Wiklund, M.; Sellberg, J. A. (2022) [Acoustic Focusing of Protein Crystals for In-Line Monitoring and Up-Concentration during Serial Crystallography](https://pubs.acs.org/doi/10.1021/acs.analchem.2c01701) _Anal Chem_, online. 10.1021/acs.analchem.2c01701.
+*   Hammarström, B; **Lane, T. J.**; Batili, H.; Sierra, R.; Wiklund, M.; Sellberg, J. A. (2022) [Acoustic Focusing of Protein Crystals for In-Line Monitoring and Up-Concentration during Serial Crystallography](https://pubs.acs.org/doi/10.1021/acs.analchem.2c01701) _Anal Chem_, 94, 12645-12656.
     
 *   Adam, V. et al (2022) [Rational Control of Off-State Heterogeneity in a Photoswitchable Fluorescent Protein Provides Switching Contrast Enhancement.](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cphc.202200192) _ChemPhysChem_, e202200192.
     
