@@ -30,6 +30,17 @@ Academic Positions
   * Stanford, CA. Sept/2010-Apr/2015
   * Research group of Vijay Pande. Teaching & research.
 
+Visiting Positions
+======
+* **Visiting Associate Research Scientist**, Columbia University 
+  * New York, NY. Oct/2025-present
+  * Sabbatical in the laboratory of Mohammed AlQuraishi.
+** **Visiting Scholar**, Stockholm Unversity 
+  * Stockholm, SE. Mar/2019-July/2019
+  * Visiting scientist in the laboratory of Anders Nilsson.
+  
+
+
 Industry Experience
 ======
 * **Principal Scientist**, CHARM Therapeutics 
@@ -38,12 +49,12 @@ Industry Experience
 
 Scholarship
 ======
-_Updated: 20 January 2025_
-- Journal Publications: 73
+_Updated: 22 October 2025_
+- Journal Publications: 76
 - Book Chapters: 1
 - Total Citations: 8200+
-- H-index: 37
-- PI role in project: 11
+- H-index: 40
+- PI role in project: 12
 - High Impact (Science or Nature): 6
 - Scholarly Grants & Awards: 11
 
@@ -67,6 +78,8 @@ Grants, Awards, Honors
 
 Invited Talks
 ======
+* Life at the atomic scale - filming photoactive proteins. Carl von Ossietzky University, Oldenburg (2025).
+* Time-resolved crystallography captures light-driven DNA repair. Photon Science Seminar, SLAC (2025).
 * Time-resolved crystallography captures light-driven DNA repair. EBSA, Rome (scheduled for July 2025).
 * Time-resolved crystallography captures light-driven DNA repair. EMBO Workshop: Time-resolved spectroscopy meets time-resolved crystallography, Pécs. (scheduled for May 2025).
 * Time-resolved crystallography captures light-driven DNA repair. U. Düsseldorf Chemistry Colloquium, Düsseldorf (2025).

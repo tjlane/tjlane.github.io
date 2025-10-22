@@ -7,13 +7,15 @@ redirect_from:
   - /publications.html
 ---
 
-_Updated: 30 January 2025_ \
+_Updated: 22 October 2025_ \
 \* Asterisk indicates corresponding authorship.
 
 2025
 
-* Nadan, A. et al. (2025). [Real-space observation of the dissociation of a transition metal complex and
+* Schori, A. et al. (2025). [Real-space observation of the dissociation of a transition metal complex and
 its concurrent energy redistribution.](https://www.nature.com/articles/s41467-025-60009-8) _Nat Commun_ 16, 4767.
+
+* Ma, L. et al. (2025). [Revealing the reaction path of UVC bond rupture in cyclic disulfides with ultrafast x-ray scattering.](https://www.science.org/doi/10.1126/sciadv.adp9175) _Science Advances_ 11 (3), eadp9175.
 
 * Creon, A; Scheer T. E. S; Reinke P.; Rahmani A.; Günther S.; Niebling, S.; Schamoni-Kast, K.; Uetrecht, C.; Meents A.; Chapman H. N.; Sprenger J.; **Lane T. J.**\* (2025) [Statistical crystallography reveals an allosteric network in SARS-CoV-2 Mpro.](https://www.biorxiv.org/content/10.1101/2025.01.28.635305v1) _bioRxiv_ 10.1101/2025.01.28.635305
 
