@@ -35,7 +35,7 @@ Visiting Positions
 * **Visiting Associate Research Scientist**, Columbia University 
   * New York, NY. Oct/2025-present
   * Sabbatical in the laboratory of Mohammed AlQuraishi.
-** **Visiting Scholar**, Stockholm Unversity 
+* **Visiting Scholar**, Stockholm Unversity 
   * Stockholm, SE. Mar/2019-July/2019
   * Visiting scientist in the laboratory of Anders Nilsson.
   
