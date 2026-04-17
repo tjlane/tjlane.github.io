@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Scientist interesting in building new technology to reveal the structure, dynamics, and function of life at the molecular scale.
+Scientist interested in building new technology to reveal the structure, dynamics, and function of life at the molecular scale.
 
-I am currently starting up the [Reciprocal Space Station Consortium](https://rs-station.org) and leading [the photobiology (PBIO) group](https://pbio.cfel.de) at the Deutsches Elektronen Synchrotron, DESY. Previously, I was a principal scientist at CHARM Therapeutics and a staff scientist at the the world's first hard X-ray free electron laser, the LCLS. During my PhD, I studied at Stanford under Vijay Pande and worked as part of the Folding@home team.
+I am currently starting up the [Reciprocal Space Station Consortium](https://rs-station.org) and leading [the photobiology (PBIO) group](https://pbio.cfel.de) at the Deutsches Elektronen Synchrotron, DESY. Previously, I was a principal scientist at CHARM Therapeutics and a staff scientist at the world's first hard X-ray free electron laser, the LCLS. During my PhD, I studied at Stanford under Vijay Pande and worked as part of the Folding@home team.
 
 
 Research
 ======
-Life consumes energy and information in a quest to survive and replicate. The process is inherently idiosyncratic and therefore unpredictable: random evolutionary processes have given us the species of today. that contingency makes it impossible to predict too much about how life will be; we can't build theory from universal laws like we do in physics. As a consequence, observation is primary in any effort to understand biology.
+Life consumes energy and information in a quest to survive and replicate. The process is inherently idiosyncratic and therefore unpredictable: random evolutionary processes have given us the species of today. That contingency makes it impossible to predict too much about how life will be; we can't build theory from universal laws like we do in physics. As a consequence, observation is primary in any effort to understand biology.
 
 My goal is to push our ability to see biology take place, at the most fundamental scale: that of atoms. To do so, we need to build new hardware _and_ software. Excitingly, unlocked by AI, imaging at the atomic scale -- structural biology -- is undergoing a paradigm shift, moving from single, static structures to seeing biomolecules in action as they change conformation, composition, and context.
 

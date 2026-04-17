@@ -35,7 +35,7 @@ Visiting Positions
 * **Visiting Associate Research Scientist**, Columbia University 
   * New York, NY. Oct/2025-present
   * Sabbatical in the laboratory of Mohammed AlQuraishi.
-* **Visiting Scholar**, Stockholm Unversity 
+* **Visiting Scholar**, Stockholm University 
   * Stockholm, SE. Mar/2019-July/2019
   * Visiting scientist in the laboratory of Anders Nilsson.
   
@@ -68,7 +68,7 @@ Grants, Awards, Honors
 * Faculty, International Max Planck Research School for Ultrafast Imaging & Structural Dynamics (2021).
 * Member, DFG Excellence Cluster on Advanced Imaging of Matter "AIM" (2020).
 * Helmholtz Young Investigator Group Leader Award, 1.8M EUR (2020-2026).
-* DoE SciDAC: Designing Photocatalysts Through Scalable Quantum Mechanics and Dynamics. Principle author with T. Martinez, $4M. Managed 4-PI photocatalyst design team (2017-2020).
+* DoE SciDAC: Designing Photocatalysts Through Scalable Quantum Mechanics and Dynamics. Principal author with T. Martinez, $4M. Managed 4-PI photocatalyst design team (2017-2020).
 * NSF Graduate Research Fellowship (2010-2013)
 * John Stauffer Academic Award (2010)
 * The Frank Parkhurst Brackett, Jr. and David Wark Brackett Prize (2010)
@@ -78,7 +78,7 @@ Grants, Awards, Honors
 
 Invited Talks
 ======
-* Life beyond the single-structure frontier. Uppsala Univeristy, Uppsala (2026).
+* Life beyond the single-structure frontier. Uppsala University, Uppsala (2026).
 * Life at the atomic scale - filming photoactive proteins. Carl von Ossietzky University, Oldenburg (2025).
 * Time-resolved crystallography captures light-driven DNA repair. Photon Science Seminar, SLAC (2025).
 * Time-resolved crystallography captures light-driven DNA repair. EBSA, Rome (scheduled for July 2025).
@@ -91,13 +91,13 @@ London (2024).
 Biology. Tegernsee (2024).
 * Statistical crystallography reveals correlated motions of SARS-CoV-2 Mpro. CFEL retreat, Timmendorf
 (2022).
-* Can we witness proteins traversing conical intersections via FEL-based crystallography? Imaging European Crystallographic Meeting, Versailles (2022).
+* Can we witness proteins traversing conical intersections via FEL-based crystallography? European Crystallographic Meeting, Versailles (2022).
 * Statistical crystallography reveals correlated motions of SARS-CoV-2 Mpro. Pacifichem (online). (2021).
-* Statistical crystallography reveals correlated motions of SARS-CoV-2 Mpro. Helmholtz: Mater, Materials, Life (MML) (online). (2021).
+* Statistical crystallography reveals correlated motions of SARS-CoV-2 Mpro. Helmholtz: Matter, Materials, Life (MML) (online). (2021).
 * Revealing allosteric pathways via large-scale crystallographic studies. BioXFEL (online). (2021).
 * The quest for correlated motion in proteins: progress through diffuse scatter and multi-crystal analysis. UHH Hamburg. (2020).
 * What Can We Learn from Diffuse Scatter? Applied Physics Seminar. KTH Stockholm. (2019).
-* Putting the Femtosecond in SFX: Ultrafast Crystallography. Pittsburg Diffraction Meeting. (2018).
+* Putting the Femtosecond in SFX: Ultrafast Crystallography. Pittsburgh Diffraction Meeting. (2018).
 * What Can We Learn from Diffuse Scatter? 5th Ringberg Conference on XFELs in Biology. (2018).
 * Phase Retrieval with Prior Information. LCLS/SSRL User’s Meeting. Menlo Park, CA. (2016).
 * Protein Evolution and Design: Session Chair. Protein Folding GRC, Galveston, TX. (2014)

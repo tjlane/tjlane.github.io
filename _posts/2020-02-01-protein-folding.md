@@ -1,7 +1,7 @@
 ---
 title: '⚖️ The rate-length law of protein folding'
 date: 2020-02-01
-permalink: /posts/2010/protein-folding/
+permalink: /posts/2020/protein-folding/
 tags:
   - physics
 ---

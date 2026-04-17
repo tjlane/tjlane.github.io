@@ -21,7 +21,7 @@ Finally, when photolyase discovers a piece of damaged DNA, it grabs it, then wai
 
 To answer these three questions, our team decided to make a movie of photolyase performing DNA repair. This isn’t easy. First, photolyase is small: we needed to be able to resolve individual atoms to answer these questions. The entire process is complete within 100 microseconds, 10,000 times faster than the blink of an eye. To capture the fastest steps, we’d have to be much faster yet. The fastest timescale we studied was 3 picoseconds, 3 millionths of a millionth of a second. Traveling at the speed of light, you’d only make it one millimeter in 3 picoseconds!
 
-To meet these challenges, we traveled to the Swiss Free Electron Laser in Villigen, about halfway between Zürich and Basel. This facility is a 740-meter-long light source that delivers ultrafast, ultrabright pulses of X-rays, making it possible to film very small things with fast enough to catch chemistry in action. In Villigen, we used a laser flash to simulate the sun and start the repair reaction. After this, by taking snapshot “pictures” with the X-rays, we were able to make a movie of photolyase repairing DNA.
+To meet these challenges, we traveled to the Swiss Free Electron Laser in Villigen, about halfway between Zürich and Basel. This facility is a 740-meter-long light source that delivers ultrafast, ultrabright pulses of X-rays, making it possible to film very small things fast enough to catch chemistry in action. In Villigen, we used a laser flash to simulate the sun and start the repair reaction. After this, by taking snapshot “pictures” with the X-rays, we were able to make a movie of photolyase repairing DNA.
 
 ![Alvra Beamline](https://tjlane.github.io/files/alvra1.jpg)
 

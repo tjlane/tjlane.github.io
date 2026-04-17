@@ -12,7 +12,7 @@ Expected: the intense electric field rips electrons away from their nuclei, caus
 
 Less expected: at very short timescales, around 100 fs, this ionization generates *new order*. Yes, surprisingly, the X-rays might not be totally destructive.
 
-We observed this phenomenon during X-ray pump / X-ray probe experiments at the [LCLS]() https://lcls.slac.stanford.edu/) that were originally planned to study XFEL damage to protein crystals. To do this, we generated two pulses from the LCLS, a pump (to damage the crystals) and a time-delayed probe (to see what happened). We also tuned the pump energy such that it was just above the iron K-edge. The probe was set just below the same edge. This way, an iron foil placed just after the sample but before the detector effectively filters out any pump diffraction, while transmitting the probe X-rays efficiently. Neat. Here’s a sketch (thanks to Ilme Schlichting):
+We observed this phenomenon during X-ray pump / X-ray probe experiments at the [LCLS](https://lcls.slac.stanford.edu/) that were originally planned to study XFEL damage to protein crystals. To do this, we generated two pulses from the LCLS, a pump (to damage the crystals) and a time-delayed probe (to see what happened). We also tuned the pump energy such that it was just above the iron K-edge. The probe was set just below the same edge. This way, an iron foil placed just after the sample but before the detector effectively filters out any pump diffraction, while transmitting the probe X-rays efficiently. Neat. Here’s a sketch (thanks to Ilme Schlichting):
 
 ![iron foil pump probe setup](https://tjlane.github.io/files/iron_foil_experimental_setup.jpg)
 

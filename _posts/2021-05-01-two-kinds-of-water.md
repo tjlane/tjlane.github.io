@@ -1,6 +1,6 @@
 ---
 title: '💦 Could there be two types of liquid water?'
-date: 2021-03-15
+date: 2021-05-01
 permalink: /posts/2021/water/
 tags:
   - physics
@@ -24,6 +24,6 @@ At these temperatures, liquid water spontaneously and rapidly undergoes homogene
 
 The [XSoLaS team](https://www.su.se/english/research/research-groups/experimental-x-ray-studies-of-liquids-and-surfaces-xsolas) led by Anders Nilsson of Stockholm University has pioneered beautiful experiments using the ultrafast light provided by XFELs to open up no man’s land and reveal its secrets. While at the LCLS, and then on sabbatical in Stockholm in 2019, I was able to participate in a number of experiments with Anders’ team. Using evaporative cooling and laser-based flash heating, they have found evidence of a phase transition in liquid water by probing no man’s land from both above (cooling) and below (heating). For instance, in one of our most exciting experiments together, we traveled to PAL-XFEL in Korea, and by heating amorphous water glasses, found the signatures of two [distinct forms of liquid water using wide-angle x-ray scattering](https://www.science.org/doi/full/10.1126/science.abb9385). The evidence for two forms of liquid water is growing!
 
-Lars Pettersson, who leads the theoretical component of XSoLaS, likes to say: water isn’t one complex liquid, but two simple liquids with a complex relationship. A beautiful way to stay something totally crazy.
+Lars Pettersson, who leads the theoretical component of XSoLaS, likes to say: water isn’t one complex liquid, but two simple liquids with a complex relationship. A beautiful way to say something totally crazy.
 
 ![Image credit: Jerker Lokrantz / Anders Nilsson](https://tjlane.github.io/files/hdl-ldl.jpg)
