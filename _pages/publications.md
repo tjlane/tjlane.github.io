@@ -10,17 +10,18 @@ redirect_from:
 _Updated: 22 October 2025_ \
 \* Asterisk indicates corresponding authorship.
 
+2026
+
+* Creon, A; Scheer T. E. S; Reinke P.; Rahmani A.; Günther S.; Niebling, S.; Schamoni-Kast, K.; Uetrecht, C.; Meents A.; Chapman H. N.; Sprenger J.; **Lane T. J.**\* (2026) [Statistical crystallography reveals an allosteric network in SARS-CoV-2 Mpro.](https://www.biorxiv.org/content/10.1101/2025.01.28.635305v1) _Comms Bio_ Accepted.
+
 2025
 
-* Fadini, A.\*; Apostolopoulou, V.; **Lane, T. J.**\*; van Thor, J. J.\* (2024) [Denoising Reveals Low-Occupancy Populations in Protein Crystals](https://doi.org/10.1038/s42003-025-09031-6) _Comms Bio_ 8, 1649.
+* Fadini, A.\*; Apostolopoulou, V.; **Lane, T. J.**\*; van Thor, J. J.\* (2025) [Denoising Reveals Low-Occupancy Populations in Protein Crystals](https://doi.org/10.1038/s42003-025-09031-6) _Comms Bio_ 8, 1649.
 
 * Schori, A. et al. (2025). [Real-space observation of the dissociation of a transition metal complex and
 its concurrent energy redistribution.](https://www.nature.com/articles/s41467-025-60009-8) _Nat Commun_ 16, 4767.
 
 * Ma, L. et al. (2025). [Revealing the reaction path of UVC bond rupture in cyclic disulfides with ultrafast x-ray scattering.](https://www.science.org/doi/10.1126/sciadv.adp9175) _Science Advances_ 11 (3), eadp9175.
-
-* Creon, A; Scheer T. E. S; Reinke P.; Rahmani A.; Günther S.; Niebling, S.; Schamoni-Kast, K.; Uetrecht, C.; Meents A.; Chapman H. N.; Sprenger J.; **Lane T. J.**\* (2025) [Statistical crystallography reveals an allosteric network in SARS-CoV-2 Mpro.](https://www.biorxiv.org/content/10.1101/2025.01.28.635305v1) _bioRxiv_ 10.1101/2025.01.28.635305
-
 
 2024
 
@@ -98,7 +99,7 @@ its concurrent energy redistribution.](https://www.nature.com/articles/s41467-02
     
 *   Ratner, D.; Cryan, J. P.; **Lane, T. J.**; Li, S.; Stupakov, G. (2019). [Pump-Probe Ghost Imaging with SASE FELs](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.011045). _Phys Rev X_, 9, 011045
     
-*   Ruddock, J. et al (2019). [Simplicity beneath Complexity: Counting Molecular Electrons Reveals Transients and Kinetics of Photodissociation Reactions](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201902228). _Angew Chem_, 58(10), 371-6375
+*   Ruddock, J. et al (2019). [Simplicity beneath Complexity: Counting Molecular Electrons Reveals Transients and Kinetics of Photodissociation Reactions](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201902228). _Angew Chem_, 58(10), 6375
     
 *   Sierra, R. G.; Batyuk, A.; Sun, Z.; Aquila, A.; Hunter, M. S.; **Lane, T.J.**; M Liang, M. et al. (2019) [The Macromolecular Femtosecond Crystallography Instrument at the Linac Coherent Light Source](https://journals.iucr.org/s/issues/2019/02/00/ig5073/). _J Synch Rad_, 26(2),  346-357.
     
@@ -128,7 +129,7 @@ its concurrent energy redistribution.](https://www.nature.com/articles/s41467-02
 
 *   Shen, X.; Li, R. K.; Lundström, U.; **Lane, T. J.**; Reid, A. H.; Weathersby, S. P.; Wang, X. J. (2017). [Femtosecond mega-electron-volt electron microdiffraction](https://www.sciencedirect.com/science/article/abs/pii/S030439911730195X). _Ultramicroscopy_ 184PA, 172-176.
     
-*   Coquelle et al. [Chromophore twisting in the excited state of a photoswitchable fluorescent protein captured by time-resolved serial femtosecond crystallography](https://www.nature.com/articles/nchem.2853). _Nat Chem_, 10(1), 31-37.
+*   Coquelle et al. (2017) [Chromophore twisting in the excited state of a photoswitchable fluorescent protein captured by time-resolved serial femtosecond crystallography](https://www.nature.com/articles/nchem.2853). _Nat Chem_, 10(1), 31-37.
     
 *   Herrmann, J.; et al. [Environmental Calcium Controls Alternate Physical States of the Caulobacter Surface Layer](https://www.cell.com/biophysj/fulltext/S0006-3495(17)30390-9). (2017) _Biophys J,_ 112, 1841-1851.
     
@@ -145,7 +146,7 @@ its concurrent energy redistribution.](https://www.nature.com/articles/s41467-02
     
 *   Mendez, D.; et al. [Angular correlations of photons from solution diffraction at a free-electron laser encode molecular structure](https://journals.iucr.org/m/issues/2016/06/00/cw5011/). (2016) _IUCrJ,_ 3, 420-429.
     
-*   Hunter, M. S.; et al. S[elenium single-wavelength anomalous diffraction de novo phasing using an X-ray Free Electron Laser](https://www.nature.com/articles/ncomms13388). (2016) _Nat Comm_, 7, 13388.
+*   Hunter, M. S.; et al. (2016) [Selenium single-wavelength anomalous diffraction de novo phasing using an X-ray Free Electron Laser](https://www.nature.com/articles/ncomms13388). _Nat Comm_, 7, 13388.
     
 *   Shi, L.; Wetzstein, G.; **Lane, T. J.** (2016). [A Flexible Phase Retrieval Framework for Flux-limited Coherent X-Ray Imaging](https://arxiv.org/abs/1606.01195). arXiv:1606.01195v1.
     

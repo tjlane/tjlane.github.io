@@ -78,6 +78,7 @@ Grants, Awards, Honors
 
 Invited Talks
 ======
+* Life beyond the single-structure frontier. Uppsala Univeristy, Uppsala (2026).
 * Life at the atomic scale - filming photoactive proteins. Carl von Ossietzky University, Oldenburg (2025).
 * Time-resolved crystallography captures light-driven DNA repair. Photon Science Seminar, SLAC (2025).
 * Time-resolved crystallography captures light-driven DNA repair. EBSA, Rome (scheduled for July 2025).
