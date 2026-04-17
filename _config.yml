@@ -25,9 +25,9 @@ author:
   name             : "TJ Lane"
   bio              : "biology beyond the single-structure frontier"
   # location         : "Cambridge, UK"
-  employer         : "DESY"
-  uri              : "https://pbio.cfel.de"
-  email            : "thomas.lane@desy.de" 
+  employer         : "RSS"
+  uri              : "https://rs-station.org"
+  email            : "tjlane@rs-station.org" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=fWw8K2gAAAAJ&hl=en"
