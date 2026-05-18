@@ -49,10 +49,10 @@ Industry Experience
 
 Scholarship
 ======
-_Updated: 22 October 2025_
+_Updated: 18 May 2026_
 - Journal Publications: 76
 - Book Chapters: 1
-- Total Citations: 8200+
+- Total Citations: 9900+
 - H-index: 40
 - PI role in project: 12
 - High Impact (Science or Nature): 6
@@ -81,8 +81,8 @@ Invited Talks
 * Life beyond the single-structure frontier. Uppsala University, Uppsala (2026).
 * Life at the atomic scale - filming photoactive proteins. Carl von Ossietzky University, Oldenburg (2025).
 * Time-resolved crystallography captures light-driven DNA repair. Photon Science Seminar, SLAC (2025).
-* Time-resolved crystallography captures light-driven DNA repair. EBSA, Rome (scheduled for July 2025).
-* Time-resolved crystallography captures light-driven DNA repair. EMBO Workshop: Time-resolved spectroscopy meets time-resolved crystallography, Pécs. (scheduled for May 2025).
+* Time-resolved crystallography captures light-driven DNA repair. EBSA, Rome (2025).
+* Time-resolved crystallography captures light-driven DNA repair. EMBO Workshop: Time-resolved spectroscopy meets time-resolved crystallography, Pécs (2025).
 * Time-resolved crystallography captures light-driven DNA repair. U. Düsseldorf Chemistry Colloquium, Düsseldorf (2025).
 * Time-resolved crystallography captures light-driven DNA repair. Ultrafast Dynamic Imaging of Matter Conference. Hamburg (2024).
 * Time-resolved crystallography captures light-driven DNA repair. UK XFEL Meeting. Royal Society,

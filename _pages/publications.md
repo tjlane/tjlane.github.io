@@ -7,12 +7,12 @@ redirect_from:
   - /publications.html
 ---
 
-_Updated: 22 October 2025_ \
+_Updated: 18 May 2026_ \
 \* Asterisk indicates corresponding authorship.
 
 2026
 
-* Creon, A; Scheer T. E. S; Reinke P.; Rahmani A.; Günther S.; Niebling, S.; Schamoni-Kast, K.; Uetrecht, C.; Meents A.; Chapman H. N.; Sprenger J.; **Lane T. J.**\* (2026) [Statistical crystallography reveals an allosteric network in SARS-CoV-2 Mpro.](https://www.biorxiv.org/content/10.1101/2025.01.28.635305v1) _Comms Bio_ Accepted.
+* Creon, A.; Scheer, T. E. S.; Reinke, P.; Rahmani, A.; Günther, S.; Niebling, S.; Schamoni-Kast, K.; Uetrecht, C.; Meents, A.; Chapman, H. N.; Sprenger, J.; **Lane, T. J.**\* (2026) [Statistical crystallography reveals an allosteric network in SARS-CoV-2 Mpro.](https://doi.org/10.1038/s42003-026-10127-w) _Comms Bio_ 9, 602.
 
 2025
 
@@ -78,7 +78,7 @@ its concurrent energy redistribution.](https://www.nature.com/articles/s41467-02
 
 2020
 
-*   Coakley J. et al (2020) [Femtosecond quantification of void evolution during rapid material failure](https://www.science.org/doi/10.1126/sciadv.abb4434). _Sci Advances_, EABB4434.
+*   Coakley J. et al (2020) [Femtosecond quantification of void evolution during rapid material failure](https://www.science.org/doi/10.1126/sciadv.abb4434). _Sci Advances_, eabb4434.
     
 *   Kim, K.-H.; Amann-Winkel, K. et. al. (2020) [Experimental observation of the liquid-liquid transition in bulk supercooled water under pressure](https://www.science.org/doi/10.1126/science.abb9385). _Science_, 370 (6519) 978-982.
     
@@ -101,7 +101,7 @@ its concurrent energy redistribution.](https://www.nature.com/articles/s41467-02
     
 *   Ruddock, J. et al (2019). [Simplicity beneath Complexity: Counting Molecular Electrons Reveals Transients and Kinetics of Photodissociation Reactions](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201902228). _Angew Chem_, 58(10), 6375
     
-*   Sierra, R. G.; Batyuk, A.; Sun, Z.; Aquila, A.; Hunter, M. S.; **Lane, T.J.**; M Liang, M. et al. (2019) [The Macromolecular Femtosecond Crystallography Instrument at the Linac Coherent Light Source](https://journals.iucr.org/s/issues/2019/02/00/ig5073/). _J Synch Rad_, 26(2),  346-357.
+*   Sierra, R. G.; Batyuk, A.; Sun, Z.; Aquila, A.; Hunter, M. S.; **Lane, T. J.**; Liang, M. et al. (2019) [The Macromolecular Femtosecond Crystallography Instrument at the Linac Coherent Light Source](https://journals.iucr.org/s/issues/2019/02/00/ig5073/). _J Synch Rad_, 26(2),  346-357.
     
 *   Barmherzig, D; Sun, J; Candes, E. J.; **Lane, T. J.** and Li, P-N (2019) [Dual-Reference Design for Holographic Coherent Diffraction Imaging](https://arxiv.org/abs/1902.02492). _arXiv_:1902.02492.
     
@@ -118,7 +118,7 @@ its concurrent energy redistribution.](https://www.nature.com/articles/s41467-02
     
 *   Nogly et al. (2018) [Retinal isomerization in bacteriorhodopsin captured by a femtosecond x-ray laser](https://www.science.org/doi/10.1126/science.aat0094). _Science_, 361, 194 (eaat0094).
     
-*   **Lane, T. J.**\* (2018) [Biomolecular Imaging with Megavolt Electrons:  Opportunities and Challenges for an Ultrafast Electron Microscope at SLAC](https://www-public.slac.stanford.edu/scidoc/docMeta.aspx?slacPubNumber=slac-R-1093). _SLAC SciDocs_, SLAC-R-1093. 
+*   **Lane, T. J.**\* (2018) [Biomolecular Imaging with Megavolt Electrons: Opportunities and Challenges for an Ultrafast Electron Microscope at SLAC](https://www-public.slac.stanford.edu/scidoc/docMeta.aspx?slacPubNumber=slac-R-1093). _SLAC SciDocs_, SLAC-R-1093. 
     
 *   Perakis, F; Camisasca, G; **Lane, T. J.**; et al (2018) [Coherent x-rays reveal the influence of cage effects on ultrafast water dynamics](https://www.nature.com/articles/s41467-018-04330-5). _Nat Comm_, 9, 1917.
     

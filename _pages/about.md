@@ -12,7 +12,7 @@ I am currently starting up the [Reciprocal Space Station Consortium](https://rs-
 
 Research
 ======
-Life consumes energy and information in a quest to survive and replicate. The origin of life is inherently idiosyncratic and therefore it's form unpredictable: random evolutionary processes have given us the species, cells, proteins of today. That contingency makes it impossible to predict too much about how life will look by reasoning from first principles; we can’t build theory from universal laws like we do in physics. As a consequence, observation is primary in any effort to understand biology.
+Life consumes energy and information in a quest to survive and replicate. The origin of life is inherently idiosyncratic and therefore its form unpredictable: random evolutionary processes have given us the species, cells, proteins of today. That contingency makes it impossible to predict too much about how life will look by reasoning from first principles; we can’t build theory from universal laws like we do in physics. As a consequence, observation is primary in any effort to understand biology.
 
 My goal is to push our ability to see biology take place, at the most fundamental scale: that of atoms. To do so, we need to build new hardware _and_ software. Excitingly, unlocked by AI, imaging at the atomic scale -- structural biology -- is undergoing a paradigm shift, moving from single, static structures to seeing biomolecules in action as they change conformation, composition, and context.
 

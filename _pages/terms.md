@@ -11,11 +11,11 @@ modified: 2024-08-19
 
 The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+First and foremost, I will never share your email address or any other personal information with anyone without your direct consent.
 
 ### Log Files
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files includes:
 
 * Internet Protocol addresses (IP)
 * Types of browser
