@@ -12,20 +12,23 @@ redirect_from:
 Education
 ======
 * **Stanford University**, Stanford CA. PhD Chemistry, April 2015. \
-  Thesis: "Modern theory of protein folding."
-* **Pomona College**, Claremont CA. BA Chemistry, May 2010
+  Advisor: Vijay Pande. Thesis: "Modern theory of protein folding."
+* **Pomona College**, Claremont CA. BA Chemistry, May 2010.
 
 Academic Positions
 ======
 * **Group Leader**, Deutsches Elektronen-Synchrotron "DESY" 
   * Hamburg, DE. Aug/2020-present
-  * Leader: Photobiology Group. Center for FEL Science (CFEL).
+  * Leader: Photobiology Group. Center for Free-Electron Laser Science (CFEL).
+* **Co-Founder**, Reciprocal Space Station "RSS"
+  * NYC, USA. Jan/2026-present
+  * Academic consortium for open-source structural biology software.
 * **Staff Scientist**, SLAC National Accelerator Lab 
   * Menlo Park, CA. Jan/2020-July/2020
-  * Machine learning group. Permanent academic position.
+  * LCLS & Machine Learning group. Permanent academic position.
 * **Associate Staff Scientist**, SLAC National Accelerator Lab 
   * Menlo Park, CA. June/2015-Jan/2020
-  * Linac coherent light source (LCLS). Tenure-track.
+  * Linac Coherent Light Source (LCLS). Tenure-track.
 * **PhD Student**, Stanford University 
   * Stanford, CA. Sept/2010-Apr/2015
   * Research group of Vijay Pande. Teaching & research.
@@ -49,14 +52,14 @@ Industry Experience
 
 Scholarship
 ======
-_Updated: 18 May 2026_
-- Journal Publications: 76
+_Updated: 9 August 2026_
+- Journal Publications: 75
 - Book Chapters: 1
-- Total Citations: 9900+
+- Total Citations: 10,300+
 - H-index: 40
 - PI role in project: 12
 - High Impact (Science or Nature): 6
-- Scholarly Grants & Awards: 11
+- Scholarly Grants & Awards: 12
 
 Service
 ======
@@ -68,13 +71,14 @@ Grants, Awards, Honors
 * Faculty, International Max Planck Research School for Ultrafast Imaging & Structural Dynamics (2021).
 * Member, DFG Excellence Cluster on Advanced Imaging of Matter "AIM" (2020).
 * Helmholtz Young Investigator Group Leader Award, 1.8M EUR (2020-2026).
-* DoE SciDAC: Designing Photocatalysts Through Scalable Quantum Mechanics and Dynamics. Principal author with T. Martinez, $4M. Managed 4-PI photocatalyst design team (2017-2020).
-* NSF Graduate Research Fellowship (2010-2013)
-* John Stauffer Academic Award (2010)
-* The Frank Parkhurst Brackett, Jr. and David Wark Brackett Prize (2010)
-* Wig Grant for Curriculum Development (2010)
-* Barry M. Goldwater Scholarship (2009)
-* Beckman Scholarship (2008)
+* DOE SciDAC: Designing Photocatalysts Through Scalable Quantum Mechanics and Dynamics. Principal author with T. Martinez, $4M. Managed 4-PI photocatalyst design team (2017-2020).
+* NSF Graduate Research Fellowship (2010-2013).
+* John Stauffer Academic Award (2010).
+* The Frank Parkhurst Brackett, Jr. and David Wark Brackett Prize (2010).
+* Wig Grant for Curriculum Development (2010).
+* Undergraduate Award in Analytical Chemistry (2009).
+* Barry M. Goldwater Scholarship (2009).
+* Beckman Scholarship (2008).
 
 Invited Talks
 ======
@@ -84,27 +88,24 @@ Invited Talks
 * Time-resolved crystallography captures light-driven DNA repair. EBSA, Rome (2025).
 * Time-resolved crystallography captures light-driven DNA repair. EMBO Workshop: Time-resolved spectroscopy meets time-resolved crystallography, Pécs (2025).
 * Time-resolved crystallography captures light-driven DNA repair. U. Düsseldorf Chemistry Colloquium, Düsseldorf (2025).
-* Time-resolved crystallography captures light-driven DNA repair. Ultrafast Dynamic Imaging of Matter Conference. Hamburg (2024).
-* Time-resolved crystallography captures light-driven DNA repair. UK XFEL Meeting. Royal Society,
-London (2024).
-* Time-resolved crystallography captures light-driven DNA repair. 7th Ringberg Workshop on Structural
-Biology. Tegernsee (2024).
-* Statistical crystallography reveals correlated motions of SARS-CoV-2 Mpro. CFEL retreat, Timmendorf
-(2022).
+* Time-resolved crystallography captures light-driven DNA repair. Ultrafast Dynamic Imaging of Matter Conference, Hamburg (2024).
+* Time-resolved crystallography captures light-driven DNA repair. UK XFEL Meeting, Royal Society, London (2024).
+* Time-resolved crystallography captures light-driven DNA repair. 7th Ringberg Workshop on Structural Biology, Tegernsee (2024).
+* Statistical crystallography reveals correlated motions of SARS-CoV-2 Mpro. CFEL retreat, Timmendorf (2022).
 * Can we witness proteins traversing conical intersections via FEL-based crystallography? European Crystallographic Meeting, Versailles (2022).
-* Statistical crystallography reveals correlated motions of SARS-CoV-2 Mpro. Pacifichem (online). (2021).
-* Statistical crystallography reveals correlated motions of SARS-CoV-2 Mpro. Helmholtz: Matter, Materials, Life (MML) (online). (2021).
-* Revealing allosteric pathways via large-scale crystallographic studies. BioXFEL (online). (2021).
-* The quest for correlated motion in proteins: progress through diffuse scatter and multi-crystal analysis. UHH Hamburg. (2020).
-* What Can We Learn from Diffuse Scatter? Applied Physics Seminar. KTH Stockholm. (2019).
-* Putting the Femtosecond in SFX: Ultrafast Crystallography. Pittsburgh Diffraction Meeting. (2018).
-* What Can We Learn from Diffuse Scatter? 5th Ringberg Conference on XFELs in Biology. (2018).
-* Phase Retrieval with Prior Information. LCLS/SSRL User’s Meeting. Menlo Park, CA. (2016).
-* Protein Evolution and Design: Session Chair. Protein Folding GRC, Galveston, TX. (2014)
-* Boltzmann Takes On Biology: The Next Frontier in Structure. Chemistry Colloquium, Pomona College, CA (2013)
-* Transition State Ensembles: The View from Simulation and Experiment. Protein Folding Consortium, Stony Brook, NY. (2012)
-* To the Exa-Scale and Beyond: Statistically Motivated Linear Scaling for Protein Dynamics. Titan Summit, Oak Ridge, TN. (2011)
-* Markov State Model Reveals Folding and Functional Dynamics in Ultra-Long Trajectories. Biophysics Symposium, Stanford, CA. (2010)
-* Ultrasonic Rheology of Mixed-Phase Systems. Amgen, Thousand Oaks, CA. (2010)
-* Ultrasonic Rheology of Surfactant Systems. Biolin Scientific Surface Science Symposium, Pomona College, CA. (2010)
-* Ultrasonic Rheology of SDS Microemulsions. Stanford QCM-D User’s Meeting. Best Presentation Award (2007)
+* Statistical crystallography reveals correlated motions of SARS-CoV-2 Mpro. Pacifichem (online) (2021).
+* Statistical crystallography reveals correlated motions of SARS-CoV-2 Mpro. Helmholtz: Matter, Materials, Life (MML) Workshop (online) (2021).
+* Revealing allosteric pathways via large-scale crystallographic studies. BioXFEL Meeting (online) (2021).
+* The quest for correlated motion in proteins: progress through diffuse scatter and multi-crystal analysis. CUI Seminar, Hamburg (2020).
+* What Can We Learn from Diffuse Scatter? Applied Physics Seminar, KTH Stockholm (2019).
+* Putting the Femtosecond in SFX: Ultrafast Crystallography. Pittsburgh Diffraction Meeting (2018).
+* What Can We Learn from Diffuse Scatter? 5th Ringberg Conference on XFELs in Biology (2018).
+* Phase Retrieval with Prior Information. LCLS/SSRL Users’ Meeting, Menlo Park, CA (2016).
+* Protein Evolution and Design: Session Chair. Protein Folding GRC, Galveston, TX (2014).
+* Boltzmann Takes On Biology: The Next Frontier in Structure. Chemistry Colloquium, Pomona College, CA (2013).
+* Transition State Ensembles: The View from Simulation and Experiment. Protein Folding Consortium, Stony Brook, NY (2012).
+* To the Exa-Scale and Beyond: Statistically Motivated Linear Scaling for Protein Dynamics. Titan Summit, Oak Ridge, TN (2011).
+* Markov State Model Reveals Folding and Functional Dynamics in Ultra-Long Trajectories. Biophysics Symposium, Stanford, CA (2010).
+* Ultrasonic Rheology of Mixed-Phase Systems. Amgen, Thousand Oaks, CA (2010).
+* Ultrasonic Rheology of Surfactant Systems. Biolin Scientific Surface Science Symposium, Pomona College, CA (2010).
+* Ultrasonic Rheology of SDS Microemulsions. Stanford QCM-D Users’ Meeting. _Best Presentation Award_ (2007).
