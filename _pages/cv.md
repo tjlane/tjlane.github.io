@@ -52,14 +52,14 @@ Industry Experience
 
 Scholarship
 ======
-_Updated: 9 August 2026_
+_Updated: 3 September 2026_
 - Journal Publications: 75
 - Book Chapters: 1
 - Total Citations: 10,300+
 - H-index: 40
 - PI role in project: 12
 - High Impact (Science or Nature): 6
-- Scholarly Grants & Awards: 12
+- Scholarly Grants & Awards: 13
 
 Service
 ======
@@ -68,6 +68,7 @@ Service
   
 Grants, Awards, Honors
 ======
+* Norddeutscher Wissenschaftspreis (North German Science Prize) "Magnetsinn von Zugvögeln" collaboration (U. Hamburg, U. Oldenburg, DESY, EuXFEL, 2026).
 * Royal Society of Chemistry Horizon Award: Ultrafast X-ray Scattering (2021).
 * Faculty, International Max Planck Research School for Ultrafast Imaging & Structural Dynamics (2021).
 * Member, DFG Excellence Cluster on Advanced Imaging of Matter "AIM" (2020).
