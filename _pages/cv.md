@@ -52,10 +52,10 @@ Industry Experience
 
 Scholarship
 ======
-_Updated: 3 September 2026_
+_Updated: 29 September 2026_
 - Journal Publications: 75
 - Book Chapters: 1
-- Total Citations: 10,300+
+- Total Citations: 10,500+
 - H-index: 40
 - PI role in project: 12
 - High Impact (Science or Nature): 6
@@ -84,6 +84,7 @@ Grants, Awards, Honors
 
 Invited Talks
 ======
+* Fighting quantum yield: two challenging SFX targets. Science@FELs, Paul Scherrer Institute, Villigen (2026).
 * Life beyond the single-structure frontier. Uppsala University, Uppsala (2026).
 * Life at the atomic scale - filming photoactive proteins. Carl von Ossietzky University, Oldenburg (2025).
 * Time-resolved crystallography captures light-driven DNA repair. Photon Science Seminar, SLAC (2025).

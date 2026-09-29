@@ -7,7 +7,7 @@ redirect_from:
   - /publications.html
 ---
 
-_Updated: 9 August 2026_ \
+_Updated: 29 September 2026_ \
 \* Asterisk indicates corresponding authorship.
 
 2026
